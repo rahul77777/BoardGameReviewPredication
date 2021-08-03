@@ -12,7 +12,7 @@
     Linear Regression
     Random Forest Regresssor
 
-## Result Comparison  ##
+## Result Comparision  ##
 
     mean squared error value Linear Regression is 2.0788190326293248.
     mean squared error value Random Forest Regressor is 1.4458625791207198.
